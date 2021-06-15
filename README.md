@@ -2,8 +2,8 @@
 # Hello there! 👋 
 ## ~$ whoami
 
-I'm Eshaan (aka Bhardy), a Btech student at SRMIST, Chennai.
-An innovator⌚ developer📱 and hacker 👨‍💻, constantly working my skills day n night
+I'm Eshaan (aka Bhardy), a Btech student at SRMIST, Chennai.\
+An innovator⌚ developer📱 and hacker 👨‍💻, constantly working my skills day n night\
 
 * * *
 
