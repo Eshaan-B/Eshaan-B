@@ -1,12 +1,18 @@
+
+Search...
+
+Double clicking malware like a champ**
+16/06/2021 00:30
+
 **Double-clicking malware like a champ**
 # Hello there! 👋 
 ## ~$ whoami
-
+​
 I'm Eshaan (aka Bhardy), a Btech student at SRMIST, Chennai.\
 An innovator⌚ developer📱 and hacker 👨‍💻, constantly working my skills day n night
-
+​
 * * *
-
+​
 ## Intrests
  * Competitive CTFs 🚩🏳🎌
  * Penetration testing 🐱‍💻
@@ -22,9 +28,11 @@ An innovator⌚ developer📱 and hacker 👨‍💻, constantly working my skil
  ***
 ### Instagram tech pages:
 - **[Build!tBreak!T](https://www.instagram.com/build.itbreak.it/)**
-- **[TechTacToe](https://www.instagram.com/tech.tactoe/)**
+- **[TechTacToe](https://www.instagram.com/tech.tactoe/)**\
 Do give them a follow😋
 *** 
+​
+Check my resume **[here](https://drive.google.com/file/d/1t7W7usZHFM8lzunR6vu_69AnfdGt4htz/view?usp=sharing)**
+​
 
-**Check my resume [here](https://drive.google.com/file/d/1t7W7usZHFM8lzunR6vu_69AnfdGt4htz/view?usp=sharing)
-**
+
