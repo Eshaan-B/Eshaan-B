@@ -1,9 +1,3 @@
-
-Search...
-
-Double clicking malware like a champ**
-16/06/2021 00:30
-
 **Double-clicking malware like a champ**
 # Hello there! 👋 
 ## ~$ whoami
