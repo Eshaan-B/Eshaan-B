@@ -1,4 +1,4 @@
-**Double clicking malware like a champ**
+**Double-clicking malware like a champ**
 # Hello there! 👋 
 ## ~$ whoami
 
