@@ -22,4 +22,4 @@ An innovator⌚ developer📱 and hacker 👨‍💻, constantly working my skil
 - ⚡ Fun fact ... *My name starts with an 'E' and has two 'a's. Please don't misspel it :)*
  ***
 
-Check my resume [here]
+Check my resume [here](https://drive.google.com/file/d/1t7W7usZHFM8lzunR6vu_69AnfdGt4htz/view?usp=sharing)
