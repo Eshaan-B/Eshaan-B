@@ -21,6 +21,11 @@ An innovator⌚ developer📱 and hacker 👨‍💻, constantly working my skil
 - 📫 How to reach me ... **[Message me on linkedin!]**(https://www.linkedin.com/in/bhardwajeshaan/)
 - ⚡ Fun fact ... *My name starts with an 'E' and has two 'a's. Please don't misspel it :)*
  ***
+### Instagram tech pages:
+- **[Build!tBreak!T](https://www.instagram.com/build.itbreak.it/)**
+- **[TechTacToe](https://www.instagram.com/tech.tactoe/)**
+Give them a follow😋
+*** 
 
 **Check my resume [here](https://drive.google.com/file/d/1t7W7usZHFM8lzunR6vu_69AnfdGt4htz/view?usp=sharing)
 **
