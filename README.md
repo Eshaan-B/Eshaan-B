@@ -1,16 +1,25 @@
-### Hi there 👋
+**Double clicking malware like a champ**
+# Hello there! 👋 
+## ~$ whoami
 
-<!--
-**Eshaan-B/Eshaan-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eshaan, a Btech student at SRMIST, Chennai.
+An innovator⌚ developer📱 and hacker 👨‍💻, constantly working my skills day n night
 
-Here are some ideas to get you started:
+* * *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intrests
+ * Competitive CTFs 🚩🏳🎌
+ * Penetration testing 🐱‍💻
+ * Flutter app development 📲
+ * And like to dabble with backend technologies at times
+ ***
+* 🔭 I’m currently working on ... *web application security*
+* 💬 Ask me about ... *anything, I'd love to help*
+* 👨‍💻 Languages ... *Primarily work with C++, dart and python*
+- 👯 I’m looking to collaborate on ... *any cybersecurity related project*
+- 💬 Ask me about ... *anything, would love to help*
+- 📫 How to reach me ... [Message me on linkedin!](https://www.linkedin.com/in/bhardwajeshaan/)
+- ⚡ Fun fact ... *My name starts with an 'E' and has two 'a's. Please don't misspel it :)*
+ ***
+
+Check my resume [here]
