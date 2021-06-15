@@ -17,7 +17,7 @@ An innovator⌚ developer📱 and hacker 👨‍💻, constantly working my skil
 - 👯 I’m looking to collaborate on ... *any cybersecurity related project*
 - 👨‍💻 Languages ... *Primarily work with C++, dart and python*
 - 💬 Ask me about ... *anything, would love to help*
-- 📫 How to reach me ... **[Message me on linkedin!]**(https://www.linkedin.com/in/bhardwajeshaan/)
+- 📫 How to reach me ... **[Message me on linkedin!](https://www.linkedin.com/in/bhardwajeshaan/)**
 - ⚡ Fun fact ... *My name isn't spelled as "Ishaan" or "Ishan" or "Eshan"* 
  ***
 ### Instagram tech pages:
