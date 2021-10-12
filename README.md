@@ -1,5 +1,5 @@
 **Double-clicking malware like a champ**
-# Hello there!!  <img src="https://user-images.githubusercontent.com/55873406/136943648-51fc3632-8d49-43ce-8ae9-60648689205e.gif" width=28px>
+# Hello there!!  <img src="https://user-images.githubusercontent.com/55873406/136943648-51fc3632-8d49-43ce-8ae9-60648689205e.gif" width=40px>
 
 ## ~$ whoami
 
