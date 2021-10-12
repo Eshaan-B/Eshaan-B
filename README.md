@@ -4,12 +4,11 @@
 
 I'm Eshaan (aka Bhardy), a B.Tech student at SRMIST, Chennai\
 Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working on something or the other
-* * *
 ## Interests
- * Competitive CTFs 🚩🏳🎌
  * Penetration testing 🐱‍💻
  * Flutter app development 📲
- * And like to dabble with backend technologies at times
+ * Blockchain development📦
+ * Backend technologies🕸
 
 <details open>
   <summary>:zap: GitHub Stats</summary>
