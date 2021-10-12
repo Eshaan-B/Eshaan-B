@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=Eshaan-B&color=green) [![GitHub followers](https://img.shields.io/github/followers/Eshaan-B?label=Follow&style=social)](https://github.com/Eshaan-B/?tab=follow)<br>
 ## ~$ whoami
 
-I'm Eshaan (aka Bhardy), a Btech student at SRMIST, Chennai.\
-Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working my skills day'n'night
+I'm Eshaan (aka Bhardy), a B.Tech student at SRMIST, Chennai\
+Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working on something or the other
 * * *
 ## Interests
  * Competitive CTFs 🚩🏳🎌
@@ -19,9 +19,9 @@ Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working my skills day'
   </details>
   
  ***
-- 🔭 I’m currently working on ... *web application security*
+- 🔭 I’m currently working on ... *🅱lockchain*
 - 👯 I’m looking to collaborate on ... *any cybersecurity related project*
-- 👨‍💻 Languages ... *Primarily work with C++, dart and python*
+- 👨‍💻 Languages ... *Primarily work with Dart, Javascript, C++ and python*
 - 💬 Ask me about ... *anything, would love to help*
 - 📫 How to reach me ... *Message me on* **[linkedin](https://www.linkedin.com/in/bhardwajeshaan/)** or **[Keybase](https://keybase.io/ebhardy)**
 - ⚡ Fun fact ... *My name isn't spelled as "Ishaan" or "Ishan" or "Eshan"* 
@@ -32,5 +32,5 @@ Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working my skills day'
 ### Instagram tech pages:
 - **[Build!tBreak!T](https://www.instagram.com/build.itbreak.it/)**
 - **[TechTacToe](https://www.instagram.com/tech.tactoe/)**\
-Do give them a follow😋
+Do give them a follow!
 *** 
