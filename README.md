@@ -1,8 +1,6 @@
 
 **Double-clicking malware like a champ**
 
-
-
 # Hello there!!  <img src="https://user-images.githubusercontent.com/55873406/136943648-51fc3632-8d49-43ce-8ae9-60648689205e.gif" width=40px>
 ![](https://komarev.com/ghpvc/?username=Eshaan-B&color=green) [![GitHub followers](https://img.shields.io/github/followers/Eshaan-B?label=Follow&style=social)](https://github.com/Eshaan-B/?tab=follow)<br>
 ## ~$ whoami
@@ -35,10 +33,3 @@ An innovator⌚ developer📱 and hacker 👨‍💻, constantly working my skil
 - **[TechTacToe](https://www.instagram.com/tech.tactoe/)**\
 Do give them a follow😋
 *** 
-​
-Check my resume **[here](https://drive.google.com/file/d/1t7W7usZHFM8lzunR6vu_69AnfdGt4htz/view?usp=sharing)**
-​
-
-  <br/>
-
-
