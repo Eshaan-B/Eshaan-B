@@ -7,7 +7,6 @@ Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working on something o
 ## Interests
  * Penetration testing 🐱‍💻
  * Flutter app development 📲
- * Blockchain development📦
  * Backend technologies🕸
 
 <details open>
