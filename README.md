@@ -16,7 +16,7 @@ Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working on something o
   </details>
   
  ***
-- 🔭 I’m currently working on ... *🅱lockchain*
+- 🔭 I’m currently working on ... *NodeJS🍀*
 - 👯 I’m looking to collaborate on ... *any cybersecurity related project*
 - 👨‍💻 Languages ... *Primarily work with Dart, Javascript, C++ and python*
 - 💬 Ask me about ... *anything, would love to help*
