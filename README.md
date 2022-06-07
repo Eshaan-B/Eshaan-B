@@ -1,4 +1,4 @@
-# Hello there!!  <img src="https://user-images.githubusercontent.com/55873406/136943648-51fc3632-8d49-43ce-8ae9-60648689205e.gif" height="35">
+# Hello there!!<img src="https://user-images.githubusercontent.com/55873406/136943648-51fc3632-8d49-43ce-8ae9-60648689205e.gif" height="35">
 ![](https://komarev.com/ghpvc/?username=Eshaan-B&color=green) [![GitHub followers](https://img.shields.io/github/followers/Eshaan-B?label=Follow&style=social)](https://github.com/Eshaan-B/?tab=follow)<br>
 ## ~$ whoami
 
