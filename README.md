@@ -34,5 +34,6 @@ Do give them a follow!
 ### Contribution Graph
 <p align ="center">
 
-<img src = "https://github.com/Eshaan-B/Eshaan-B/blob/output/github-contribution-grid-snake.gif"></center>
+<img src = "https://github.com/Eshaan-B/Eshaan-B/blob/output/github-contribution-grid-snake-dark.svg"></center>
+
 </p>
