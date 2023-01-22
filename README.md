@@ -1,9 +1,9 @@
-<p align ="center">
+<!-- <p align ="center">
 
 <img src = "https://github.com/Eshaan-B/Eshaan-B/blob/output/github-contribution-grid-snake-dark.svg"></center>
 
 </p>
-
+ -->
 # Hello there!<img src="https://user-images.githubusercontent.com/55873406/136943648-51fc3632-8d49-43ce-8ae9-60648689205e.gif" height="35">
 ![](https://komarev.com/ghpvc/?username=Eshaan-B&color=green) [![GitHub followers](https://img.shields.io/github/followers/Eshaan-B?label=Follow&style=social)](https://github.com/Eshaan-B/?tab=follow)<br>
 ## ~$ whoami
@@ -11,9 +11,9 @@
 I'm Eshaan (aka Bhardy), a B.Tech student at SRMIST, Chennai\
 Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working on something or the other
 ## Interests
- * Penetration testing 🐱‍💻
+ * Cybersecurity🐱‍💻
+ * Backend web development🕸
  * Flutter app development 📲
- * Backend technologies🕸
 
 <details open>
   <summary>:zap: GitHub Stats</summary>
@@ -24,7 +24,7 @@ Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working on something o
  ***
 - 🔭 I’m currently working on ... *NodeJS🍀*
 - 👯 I’m looking to collaborate on ... *any cybersecurity related project*
-- 👨‍💻 Languages ... *Primarily work with Dart, Javascript, C++ and python*
+- 👨‍💻 Languages ... *Primarily work with Javascript, Dart, C++ and python*
 - 💬 Ask me about ... *anything, would love to help*
 - 📫 How to reach me ... *Message me on* **[linkedin](https://www.linkedin.com/in/bhardwajeshaan/)** or **[Keybase](https://keybase.io/ebhardy)**
 - ⚡ Fun fact ... *My name isn't spelled as "Ishaan" or "Ishan" or "Eshan"* 
