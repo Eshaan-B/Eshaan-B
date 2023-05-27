@@ -22,7 +22,7 @@ Innovator⌚ Developer📱 Hacker 👨‍💻, constantly working on something o
   </details>
   
  ***
-- 🔭 I’m currently working on ... *NodeJS🍀*
+- 🔭 I’m currently working on ... *Angular*
 - 👯 I’m looking to collaborate on ... *any cybersecurity related project*
 - 👨‍💻 Languages ... *Primarily work with Javascript, Dart, C++ and python*
 - 💬 Ask me about ... *anything, would love to help*
